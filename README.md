@@ -1,2 +1,2 @@
-# Rails my first
+# Rails my second
 
